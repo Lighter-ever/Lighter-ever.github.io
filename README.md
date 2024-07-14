@@ -1,6 +1,6 @@
-# Blog Title :link: https://Lighter-ever.github.io 
+# Lighter's Blog :link: https://Lighter-ever.github.io 
 ### :page_facing_up: [1](https://Lighter-ever.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 12 
-### :alarm_clock: 2024-07-14 19:22:54 
+### :alarm_clock: 2024-07-14 19:37:50 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
